@@ -1,0 +1,1 @@
+I downloaded `Collected Writings of Mao Tse-Tung` from https://www.marxists.org/chinese/maozedong/collect/index.htm. However, it's hard to read the PDF files on mobile phone. I have transcribed these materials into Markdown format and uploaded them to this repository. 
