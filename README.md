@@ -2,7 +2,7 @@ I downloaded `Collected Writings of Mao Tse-Tung` from https://www.marxists.org/
 
 todo list:
 
-- [ ] 02：23 / 266
+- [ ] 02：27 / 266
 - [ ] 03
 - [ ] 04
 - [ ] 05
